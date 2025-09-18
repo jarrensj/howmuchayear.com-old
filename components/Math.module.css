@@ -1,6 +1,10 @@
 @keyframes shrink {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(0.95); }
+  0%, 100% { 
+    transform: scale(1);
+  }
+  50% { 
+    transform: scale(0.96);
+  }
 }
 
 .shrink {
